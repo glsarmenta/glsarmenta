@@ -1,26 +1,50 @@
-# Hi there, I'm Godfrey Sarmenta 👋
+# 👋 Hi, I'm **Godfrey Sarmenta**  
 
-I'm a seasoned developer and manager with over 10 years of experience in the tech industry, currently serving as the Philippine Manager at YNS Philippines Inc. My expertise spans PHP frameworks like Laravel and CakePHP, alongside advanced proficiency in Vue.js, Scrum methodologies, and team management.
+🚀 **Development Manager | Senior Software Engineer | Tech Mentor**  
+With over a decade in the tech industry, I specialize in building scalable applications, leading high-performing teams, and aligning technology with business goals. Currently, I’m the **Philippine Manager at YNS Philippines Inc.**, where I drive innovation, oversee operations, and empower developers to grow.  
 
-## 🔧 Technologies & Tools
+---
 
-- **Programming Languages**: PHP, JavaScript (JS), HTML
-- **Frameworks**: Laravel, CakePHP, Vue.js
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools**: Git, Docker, VS Code, Codeium AI
-- **Management Skills**: Scrum, Team Management, Managerial Practices
+## 🔧 **Tech Stack & Skills**  
 
-## 🚀 My Work
+**Languages & Frameworks:**  
+- PHP (Laravel, CakePHP), JavaScript (Vue.js, React.js), HTML/CSS  
 
-As a professional with a decade in the tech industry, I've led numerous projects with a focus on innovation and efficient project management. My role involves directing a team of talented developers and guiding projects from conception through execution, ensuring high standards of quality.
+**Databases & Systems:**  
+- MySQL, PostgreSQL, MongoDB  
+- RESTful APIs, Scalable Architectures  
 
-## 🌐 Current Role
+**Tools & Platforms:**  
+- Git, Docker, VS Code, Codeium AI, Cursor, AnythingLLM  
 
-Currently, I am the Philippine Manager at YNS Philippines Inc., where I oversee company improvement and team operations. My role requires a strategic approach to managing people and company, ensuring alignment with business goals.
+**Leadership & Management:**  
+- Agile/Scrum, Project Roadmapping, People Management, Mentoring  
 
-## 📫 How to Reach Me
+---
 
-- **LinkedIn**: [[glsarmenta](https://www.linkedin.com/in/glsarmenta/)](#)
-- **Email**: [glsarmenta7@gmail.com](mailto:glsarmenta7@gmail.com)
+## 🚀 **What I Do**  
+- ✅ Lead **full-cycle software projects** from design to deployment.  
+- ✅ Manage and mentor **teams of 10+ engineers**, scaling talent pipelines.  
+- ✅ Implement **Agile/Scrum methodologies** to boost productivity and delivery speed.  
+- ✅ Collaborate with stakeholders to align technology strategies with **business growth**.  
 
-![Godfrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glsarmenta&show_icons=true&theme=radical)
+---
+
+## 🌐 **Current Role**  
+**Philippine Manager @ YNS Philippines Inc.**  
+- Oversee company operations and cross-functional teams.  
+- Lead improvement initiatives in process, culture, and technical practices.  
+- Drive innovation to keep the company competitive and efficient.  
+
+---
+
+## 📫 **Let’s Connect**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/glsarmenta/)  
+- 📧 [glsarmenta7@gmail.com](mailto:glsarmenta7@gmail.com)  
+- 💻 [GitHub Projects](https://github.com/glsarmenta)  
+
+---
+
+## 📊 **GitHub Stats**  
+![Godfrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glsarmenta&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glsarmenta&layout=compact&theme=radical)  
